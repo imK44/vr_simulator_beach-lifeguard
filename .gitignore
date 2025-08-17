@@ -17,6 +17,7 @@ MemoryCaptures/
 *.pidb
 *.svd
 *.pdb
+.vsconfig
 
 # OS files
 .DS_Store

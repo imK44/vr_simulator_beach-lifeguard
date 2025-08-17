@@ -20,3 +20,9 @@ This project uses third-party assets. Key attributions include:
 - Mixamo character models by Adobe.
 - Oculus Hands models by Meta.
 - Additional assets (Crosshairs, Lifeguard Buoy, whistles, etc.) remain the property of their respective creators. Refer to subdirectories under `Assets/` for individual licenses.
+
+## Demo
+![App in action](demo/vrDemo1(1).gif)
+![App in action](demo/vrDemo2-min.gif)
+![App in action](demo/vrDemo3-min.gif)
+![App in action](demo/vrDemo4(1).gif)

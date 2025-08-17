@@ -25,4 +25,4 @@ This project uses third-party assets. Key attributions include:
 ![App in action](demo/vrDemo1(1).gif)
 ![App in action](demo/vrDemo2-min.gif)
 ![App in action](demo/vrDemo3-min.gif)
-![App in action](demo/vrDemo4(1).gif)
+![App in action](demo/vrDemo4 (1).gif)
